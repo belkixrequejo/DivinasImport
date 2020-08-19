@@ -1,6 +1,8 @@
 import 'package:divinasimportproyect/product/model/cart.dart';
 import 'package:divinasimportproyect/product/model/orders.dart';
 
+import 'package:divinasimportproyect/product/ui/widgets/cart_item.dart';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
