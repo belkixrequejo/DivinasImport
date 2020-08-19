@@ -1,3 +1,4 @@
+import 'package:divinasimportproyect/product/bloc/routes.dart';
 import 'package:divinasimportproyect/product/model/cart.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -5,7 +6,6 @@ import 'package:provider/provider.dart';
 import '../widgets/products_grid.dart';
 import '../widgets/badge.dart';
 import '../widgets/app_drawer.dart';
-import 'package:divinasimportproyect/product/bloc/routes.dart';
 
 enum FilterOptions { favorites, all }
 
