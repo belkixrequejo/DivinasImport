@@ -1,0 +1,62 @@
+name: divinasimportproyect
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  cupertino_icons: ^0.1.2
+  firebase_auth: 
+  google_sign_in: 
+  firebase_storage: ^3.1.1
+  cloud_firestore: ^0.13.0+1
+  flutter_bloc: ^4.0.0
+  equatable:
+  meta:
+  rxdart:
+  flutter_auth_buttons:
+  intl: ^0.16.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
